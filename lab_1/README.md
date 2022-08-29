@@ -18,12 +18,12 @@
 ```
 ### Висновок: 
 > у висновку потрібно відповісти на запитання:
-- :question: Що зроблено в роботі;
-- :question: Мета досягнута;
-- :question: Навчився працювати з git і оформленням робіи;
-- :question: Так;
-- :question: Всі завдання виконано;
-- :question: Ні;
-- :question: Так (Feedback);
-- :question: Побажань немає (Suggestions);
+- :smirk: Виконано python код;
+- :smirk: Мета досягнута;
+- :smirk: Навчився працювати з git і оформленням робіи;
+- :smirk: Так;
+- :ok: Всі завдання виконано;
+- :no_entry_sign: Ні;
+- :ok: Так (Feedback);
+- :no_entry_sign: Побажань немає (Suggestions);
 ---
