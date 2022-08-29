@@ -6,7 +6,8 @@
 - Результати виконання завдання № 1:
     1. Створив папку і в папці файл .py
     2. Програма вивела: 
-    ![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_1/img/scr_1.png "Результат")
+    ![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_1/img/scr_1.png "Результат № 1")
+    ![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_1/img/src_2.png "Результат № 2")
 
 - Код:
 ```python
@@ -18,11 +19,11 @@
 ### Висновок: 
 > у висновку потрібно відповісти на запитання:
 - :question: Що зроблено в роботі;
-- :question: Чи досягнуто мети роботи;
-- :question: Які нові знання отримано;
-- :question: Чи вдалось відповісти на всі питання задані в ході роботи;
-- :question: Чи вдалося виконати всі завдання;
-- :question: Чи виникли складності у виконанні завдання;
-- :question: Чи подобається такий формат здачі роботи (Feedback);
-- :question: Побажання для покращення (Suggestions);
+- :question: Мета досягнута;
+- :question: Навчився працювати з git і оформленням робіи;
+- :question: Так;
+- :question: Всі завдання виконано;
+- :question: Ні;
+- :question: Так (Feedback);
+- :question: Побажань немає (Suggestions);
 ---
