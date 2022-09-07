@@ -6,21 +6,33 @@
 - Результати виконання завдання № 1:
     1. Створив папку та файли
     2. Почав виконувати завдання по базовим типам даних Python і комплесними даними 
-    ![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_1/img/scr_1.png "Результат № 1")
-    ![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_1/img/src_2.png "Результат № 2")
+    ![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_2/img/Screenshot_1.png "Результат № 1")
+    3. Почав працювати з констанами
+    4. Почав практикувати роботу з вбудованими функціями
+    5. Робота з циклами while & for
+    6. Робота з розгалуженням
 
 - Код:
 ```python
-    from datetime import datetime
-    name = "Yura"
+int_1 = 13
+str_1 = 'Це буде Стрічка'
+float_1 = 5.2
+print("Змінна має тип", type(int_1), "Та зНачення", int_1, "Змінна має тип", type(float_1), "Та зНачення", float_1, "Змінна має тип", type(str_1), "Та зНачення", str_1)
 
-    print(f"{name} start programming at {datetime.now()}")
+
+print("1. Змінна має тип", type(int_1), "Та значення", int_1)
+
+print("2. Змінна має тип " + str(type(int_1)) + " Та значення " + str(int_1))
+
+print("3. Змінна має тип {0} Та значення {1}".format(type(int_1), int_1))
+
+print(f"4. Змінна має тип {type(int_1)} Та значення {int_1}")
 ```
 ### Висновок: 
 > у висновку потрібно відповісти на запитання:
 - :smirk: Виконано python код;
 - :smirk: Мета досягнута;
-- :smirk: Навчився працювати з git і оформленням робіи;
+- :smirk: Навчився працювати з основами Python :snake:;
 - :smirk: Так;
 - :ok: Всі завдання виконано;
 - :no_entry_sign: Ні;
